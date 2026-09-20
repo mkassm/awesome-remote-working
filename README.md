@@ -26,6 +26,7 @@
 |[bayt.com](https://www.bayt.com/en)<img  width=400/>||
 
 ## World Wide Websites
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 |||
 |----|---------|
 |[toptal.com](https://www.toptal.com/)<img  width=400/>|[weworkremotely.com](http://weworkremotely.com/)<img  width=400/>|
