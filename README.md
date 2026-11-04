@@ -33,6 +33,7 @@
 |[andela.com](http://andela.com)<img  width=400/>|[Codementor.io](www.codementor.io)<img  width=400/>|
 |[microverse.org](http://microverse.org)<img  width=400/>|[remoters.net](http://remoters.net)<img  width=400/>|
 |[angel.co/jobs](http://angel.co/jobs)<img  width=400/>|[relocate.me](https://relocate.me)<img  width=400/>|
+|[jaabz.com](https://jaabz.com)<img  width=400/>||
 |[upwork.com](http://upwork.com)<img  width=400/>|[crossover.com](http://crossover.com)<img  width=400/>|
 |[teamweek.com](http://teamweek.com)<img  width=400/>|[wellpaid.io](http://wellpaid.io)<img  width=400/>|
 |[monster.com](http://monster.com)<img  width=400/>|[jobspresso.co](http://jobspresso.co)<img  width=400/>|
