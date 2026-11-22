@@ -23,7 +23,7 @@
 |[baaeed.com](https://baaeed.com)<img  width=400/>|[al7arefa.com](https://www.al7arefa.com/)<img  width=400/>|
 |[mostaql.com](https://mostaql.com)<img  width=400/>|[naukrigulf](https://www.naukrigulf.com)<img  width=400/>|
 |[talentsarena.net](https://talentsarena.net)<img  width=400/>|[for9a.com](https://www.for9a.com/en)<img  width=400/>|
-|[bayt.com](https://www.bayt.com/en)<img  width=400/>||
+|[bayt.com](https://www.bayt.com/en)<img  width=400/>|[techny.dev](https://techny.dev)<img  width=400/>|
 
 ## World Wide Websites
 |||
